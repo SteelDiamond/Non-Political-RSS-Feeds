@@ -23,6 +23,10 @@ Don't like my list? [Here's a list of people who felt differently](https://githu
 
 ##### 2. RSS Discoverability - How easy it is to find the RSS feed of your choice
 
+For instance, if they have one giant list, or very easy instructions I can put into the address bar, I consider that easy.
+
+If I have to go to a category and point my RSS client to it, I consider this a little less discoverable, since it's never clear if categories/sub-categories actually have feeds.
+
 ✅ RSS Feeds Easy to find
 
 ➖ RSS feeds are somewhat easy to find
