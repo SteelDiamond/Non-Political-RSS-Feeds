@@ -8,7 +8,7 @@ If you think I have made a mistake, please let me know, RSS feeds can sometimes 
 ### The New York Times
 **Link**: https://www.nytimes.com/rss
 
-**Date Banned**: November 22, 2024
+**Date Added**: November 22, 2024
 
 Reason: Paywalled. I can't review them, and the few RSS feeds I tried were a mix of real news and unnecessary politics. I gave up after this.
 
@@ -16,11 +16,13 @@ Reason: Paywalled. I can't review them, and the few RSS feeds I tried were a mix
 
 **Link**: https://time.com/archive/6903659/rss-feeds-for-time-online/
 
-**Date Banned**: November 22, 2024
+**Date Added**: November 22, 2024
 
 Reason: Non-Political Feeds are largely or completely political, and even things like history on their site includes current US politics. I gave up after this.
 
 ## Permanently Banned 
+
+These are feeds are very unlikely to be added to my list. Again, I will still be fair and offer a link to them if you really want them.
 
 ### Simply Recipes
 
