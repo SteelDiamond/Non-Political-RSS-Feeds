@@ -376,8 +376,8 @@ If this were to change, I could write a CSS Rule and hide Popular Reads and avoi
 + ✅ RSS Feeds Easy to find
 + ✅ RSS feed offers many filtering options
 + ✅ Updates Regularly
-+ ➖ Non-Political feeds are mostly free politics
 + ✅ Articles don't Recommend political content on you
++ ➖ Non-Political feeds are mostly free politics
 + ➖ Mostly Free, but no option to pay for non-political content only
 + ➖ Has an autoplaying video, or the video follows you, but it's relevant to the article.
 + ❌ Not time tested
@@ -453,7 +453,7 @@ Their filtering options aren't the best. Some sub-categories would be nice to ha
 + ✅ Free
 + ✅ Annoying feature free
 + ❌ Not time tested
-+ ➖ RSS Feed does not work
++ ☠ RSS Feed does not work
 
 I'm only ranking Reuters a C+ because their RSS feeds are broken, and they have been for years according to posts on Stackoverflow and Reddit. I'm sure they must know this. This is very unprofessional.
 
