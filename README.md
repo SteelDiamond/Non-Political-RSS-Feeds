@@ -4,7 +4,7 @@ Politics are for failures. Let's get back to talking about \*real\* things.
 
 ## Boring Stuff
 
-Don't like my list? [Here's a list of people who felt differently](https://github.com/SteelDiamond/REPLACEMEOKAYTHANKS/forks), I hope one of them suits your needs.
+Don't like my list? [Here's a list of people who felt differently](https://github.com/SteelDiamond/Non-Political-RSS-Feeds/forks), I hope one of them suits your needs.
 
 <details>
     <summary>Criteria</summary>  
