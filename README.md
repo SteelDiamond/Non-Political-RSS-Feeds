@@ -2,6 +2,8 @@
 
 Politics are for failures. Let's get back to talking about \*real\* things.
 
+This list is a work in progress, at a later date, I want to make it easier to read. For now, this will do.
+
 ## Boring Stuff
 
 Don't like my list? [Here's a list of people who felt differently](https://github.com/SteelDiamond/Non-Political-RSS-Feeds/forks), I hope one of them suits your needs.
