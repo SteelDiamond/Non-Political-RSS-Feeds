@@ -595,7 +595,7 @@ I'm giving them a D+ simply because they don't shove politics in your face, but 
 #### Associated Press
 **Rank:** D--
 
-**Link:** None given.
+**Link:** https://github.com/rererecursive/associated-press-rss
 
 **Date added:** November 21 2024
 
@@ -610,7 +610,7 @@ I'm giving them a D+ simply because they don't shove politics in your face, but 
 + ☠️ RSS Feeds Very hard to find or requires a 3rd party
 + ☠️ RSS Feed has no options
 
-They used to offer RSS feeds for each section so you could opt-out of political nonsense, but they no longer do this. You can get news from those sections with a third party tool to generate an RSS feed, but I shouldn't even have to use a third party to get a basic feature.
+They used to offer RSS feeds for each section so you could opt-out of political nonsense, but they no longer do this. You can get news from those sections with a third party tool to generate an RSS feed, but I shouldn't even have to use a third party to get a basic feature. The RSS client I use even suggested a third party. The link above lets you filter by category, but I cannot get this to work. RSSHub also works if you really want this source.
 
 I checked two sections of their site (Oddities and Lifestyle). The lifestyle feed felt the need to talk about politics. I tried an article about Coffee and was also recommended me politics in the middle of the article.
 
