@@ -31,7 +31,11 @@ Don't like my list? [Here's a list of people who felt differently](https://githu
 
 ☠️ RSS Feeds Very hard to find or requires a 3rd party
 
-##### 3. Filtering - How much can you fine tune what you are looking for. This should be a standard feature since just about every CMS/Blog software supports the automatic generation of RSS feeds, and in the case of Wordpress, you can even get it down to the tag level.
+##### 3. Filtering - How much can you fine tune what you are looking for.
+
+This should be a standard feature since just about every CMS/Blog software supports the automatic generation of RSS feeds, and in the case of Wordpress, you can even get it down to the tag level. There should be no reason why I cannot fine tune what I want.
+
+Furthermore I should not have to use a third party service to do this. I am sure Wordpress Plugins exist. There should be no reason why I cannot append something like **?include=Food&exclude=SomePoliticalTag** to the end of a URL.
 
 ✅ RSS feed offers many filtering options
 
@@ -43,7 +47,9 @@ Don't like my list? [Here's a list of people who felt differently](https://githu
 
 ☠️ RSS Feed does not work
 
-##### 4. Non-Political remain non-political - How often feeds include unwanted politics. IE: Lifestyle shouldn't have articles whining about a politician, climate change, or anything like that. Food And Drink shouldn't be rambling on about CO2 emissions. Science/Tech shouldn't be going on about who was picked what in a government's cabinet. And so on.
+##### 4. Non-Political remain non-political - How often feeds include unwanted politics. 
+
+For example Lifestyle shouldn't have articles rambling on about a politician, climate change, or anything like that those either belong under politics, or a climate section. Food And Drink shouldn't be rambling on about CO2 emissions. Science/Tech shouldn't be going on about who was picked what in a government's cabinet. And so on. 
 
 ✅ Non-Political feeds are largely or completely free from Politics
 
