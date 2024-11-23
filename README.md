@@ -719,6 +719,8 @@ The third parties are fine for smaller sites, but something as big as a media gr
 
 Simply put, sources that do not do should die out in favor of ones that do.
 
+If you are content provider who uses Wordpress, this article explains how to exclude categories, and I would imagine you could easily expand it to exclude certain tags: https://artbees.net/blog/customizing-wordpress-rss-feed-with-code-the-easy-way/
+
 ---
 
 **Q.** Your list favors the left/down/up/right/a/b/[ascended](https://i.imgur.com/dKbO1py.jpeg)!
