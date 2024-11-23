@@ -711,6 +711,16 @@ If you really think I am wrong, fork the repo. At the top of this repo I even ha
 
 ---
 
+**Q.** Why not just use a third party RSS Feeds using RSSHub/Feedspot/etc.
+
+**A.** I should not have to. This is a basic feature that can and should be standard on every news site. It should be easy to find, and I should be able to filter it. It is not that hard, it is one of the default features of Wordpress which most sites use.
+
+The third parties are fine for smaller sites, but something as big as a media group, that should be something done on day one.
+
+Simply put, sources that do not do should die out in favor of ones that do.
+
+---
+
 **Q.** Your list favors the left/down/up/right/a/b/[ascended](https://i.imgur.com/dKbO1py.jpeg)!
 
 **A.** Then recommend me some RSS feeds that avoid politics from your side.
