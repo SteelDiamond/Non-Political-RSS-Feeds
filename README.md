@@ -276,6 +276,31 @@ It's local to Rochester, but they have news that is not just for their area, and
 
 If the feeds were a bit more easier to find, I'd bump this to a B+.
 
+#### Science Alert
+
+**Rank:** B+
+
+**Link:** https://www.sciencealert.com/feed
+
+**Date added:** November 23 2024
+
+**Lasted tested on**: November 23 2024
+
++ ✅ RSS feed offers many filtering option
++ ✅ Non-Political feeds are largely or completely free from Politics
++ ✅ Updates Regularly
++ ✅ Articles don't Recommend political content on you
++ ✅ Free
++ ✅ Annoying feature free: Does not have autoplaying videos, videos that follow you, or other annoying features.
++ ➖ RSS feeds are somewhat easy to find
++ ❌ Not time tested
+
+Science Alert uses Wordpress, which means any category you go to, you can append **/feed** in the URL and filter for just those categories.
+
+However, my RSS client when asked to get RSS feeds for their site returns "Science Alert Google/Microsoft/Samsung/Yahoo News Feed". I am not sure why it wants you to use a third party when they have their own built in, and I almost did not notice I could just type **/feed** in. This is why I say it is important to clearly list your RSS feeds.
+
+Other than that, so far Science Alert has managed to avoid anything political so far.
+
 #### Fox News
 **Rank:** B-
 
