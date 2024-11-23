@@ -1,6 +1,7 @@
 https://www.ctvnews.ca/more/rss-feeds-for-ctv-news
 https://www.cbsnews.com/chicago/
 https://www.rochesterfirst.com/
+https://www.sciencealert.com/feed
 https://www.foxnews.com/
 https://www.nbcnewyork.com/
 https://abcnews.go.com/Site/page/rss-feeds-3520115
