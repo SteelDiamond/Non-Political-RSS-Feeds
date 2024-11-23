@@ -1,3 +1,4 @@
+https://github.com/rererecursive/associated-press-rss
 https://www.nytimes.com/rss
 https://time.com/archive/6903659/rss-feeds-for-time-online/
 https://feeds-api.dotdashmeredith.com/v1/rss/standard/3b53043e-ca31-4817-b47f-47f69efbb29c
