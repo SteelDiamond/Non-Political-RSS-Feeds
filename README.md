@@ -13,7 +13,19 @@ Don't like my list? [Here's a list of people who felt differently](https://githu
 <details>
     <summary>Criteria</summary>  
 
+✅ Positive rating
+
+➖ Neutral rating.
+
+❌ Negative rating. These usually prevent a site from getting an A Tier.
+
+☠️ Toxic Rating. These usually prevent a site from reaching the B Tier. Several are grounds for a D ranking.
+
+The more political the criteria being ranked, the more it matters.
+
 ##### 1. Time - How long it has been tested.
+
+For a site to get into the B tier and above, I put it through a trial period where I check a number of sections on random days that should not contain politics, and mark how many infractions it gets. This is random on purpose so that no source can game the system. A tier feeds must have *very* few infractions. Some feeds that are currently B may actually reach the A tier, and in the future, I may even make an S Tier.
 
 ✅ Time Tested
 
@@ -65,7 +77,9 @@ For example Lifestyle shouldn't have articles rambling on about a politician, cl
 
 ☠️ There is an RSS feed, but non-political feeds are non-existent
 
-##### 5. Update Frequency - How often is new news pushed out
+##### 5. Update Frequency
+
+How often is new news pushed out. More content is obviously better. Rare updates are bad, but not the end of the world.
 
 ✅ Updates Regularly
 
@@ -73,19 +87,25 @@ For example Lifestyle shouldn't have articles rambling on about a politician, cl
 
 ❌ Updates less often
 
-☠️ Updates Rarely
+❌ Updates Rarely
 
-##### 6. Suggestions - When reading an article, how aggressive is the source with trying to get you to view their political content
+##### 6. Suggestions 
+
+When reading an article, how aggressive is the source with trying to get you to view their political content.
+
+Some examples would be: Trending Stories and if/how the follow you, what stories it recommends or considers related next, and how much they try to force political content on you.
 
 ✅ Articles don't Recommend political content on you
 
-➖ Articles may recommend political content on you, but it's minor. (Trending Stories that don't scroll with you, it's a the bottom of the page where you can ignore it, etc)
+➖ Articles may recommend political content on you, but it's minor. 
 
 ❌ Articles are aggressive with trying to get you to view political content.
 
 ☠️ Articles are very aggressive trying to get you to view political content.
 
-##### 7. Cost - Free is better, but nothing wrong with paying for quality content
+##### 7. Cost
+
+Free is better. Paywalls are unfortunate, but if you can pay to fund only non-political news, then I think that is a fair trade off. The only real thing that is bad is ones where you have to pay, and have no option to opt-out of funding political content.
 
 ✅ Free
 
@@ -93,20 +113,27 @@ For example Lifestyle shouldn't have articles rambling on about a politician, cl
 
 ➖ Mostly Free, some paywalls
 
-❌ Mostly Not free
+➖ Mostly Not free
 
-☠️ Paid, and can't avoid funding political news
+❌ Paid, and can't avoid funding political news
 
 ##### 8. User Interface - Does the site offer a good experience, or is annoying, abusive, or political?
+
+No one likes videos that play automatically, and if I do not want it playing, I certainly do not want them following me, and I absoultely do not want it playing unwanted political content.
+
+Other annoying features are things like modal dialogs that pop-up harassing you to give your e-mail, and basically anything that slows me down from getting to the article.
 
 ✅ Annoying feature free: Does not have autoplaying videos, videos that follow you, or other annoying features.
 
 ➖ Has an autoplaying video, or the video follows you, but it's relevant to the article.
+
 ❌ Has a video, regardless of auto-playing or following you contains politics you didn't ask for, or when it's done, jumps to politics.
 
-❌ Other annoying features
+❌ Other annoying features.
 
 ☠️ Has a video, auto-plays and follows you, and it's political in nature.
+
+☠️ Other major annoyance that is political in nature.
 </details>
 
 <details>
@@ -118,7 +145,7 @@ I am always interested in trying to find sources from all sides that I can so I 
 
 Just because I list something here, does not mean I endorse it. I don't know how I can make that any clearer.
 
-These are the guidelines I try my best to follow when looking for non-political news. In the end, I make a judgment call based on how I feel about the source. You are free to disagree.
+These are the guidelines I try my best to follow when looking for non-political news. In the end, I make a judgment call based on how I feel about the source. You are free to disagree, and please, fork the list if you do, more opinions are better.
 
 * Does the source have an RSS feed that contains a section that would normally include non-political news? If not, it doesn't go on this list.
 
@@ -146,7 +173,7 @@ These are the guidelines I try my best to follow when looking for non-political 
   
 * Do they have an abusive user interface such as auto playing videos, modal subscribe by e-mail dialogs, or other such things?
 
-In the end, things like **Vinyl Record from 1966 Wedding found**, **Killer Clown in Florida is released**, **McDonald's decommissions Expresso machines due to safety concerns**, and **Egyptians drank cocktails of psychedelic drugs in ancient mugs, research reveals** is real news that is fun to talk about.
+In the end, things like **Vinyl Record from 1966 Wedding found**, **Killer Clown in Florida is released**, **McDonald's decommissions Espresso machines due to safety concerns**, and **Egyptians drank cocktails of psychedelic drugs in ancient mugs, research reveals** is real news that is fun to talk about.
 
 News like **Some Politician buys Canned Soup**, **Some bill no one cares about was passed**, **Mustard is a secret Turtle Clan Dogwhistle, and why they're evil!**, **Some War that doesn't impact you in anyway, and why you must move zig and care for great justice!**, and **Some guy you never heard of was chosen to be something in some government** are not. That's boring lame political trash.
 
