@@ -707,7 +707,7 @@ If you really think I am wrong, fork the repo. At the top of this repo I even ha
 
 **Q.** How dare you suggest people read *a news source I don't like*.
 
-**A.** I am not recommending anyone do anything. I simply checked some RSS feeds, looked to see if they had news that was not political, and made a judgment call. You are free to fork my list and use it as a base for your own. I have even liked the forks list on this page so people can get alternative opinions.
+**A.** I am not recommending anyone do anything. I simply checked some RSS feeds, looked to see if feeds that should be non-political had political content or not, and made a judgment call. You are free to fork my list and use it as a base for your own. I have even liked the forks list on this page so people can get alternative opinions.
 
 ---
 
