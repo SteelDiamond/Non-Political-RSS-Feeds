@@ -623,34 +623,6 @@ The problem is they don't appear to have anything outside the main RSS feed that
 
 I'm giving them a D+ simply because they don't shove politics in your face, but unless the RSS situation improves, I can't in good faith move this up on the list, which honestly, I'd love to do as everything else is actually quite nice.
 
-#### Associated Press
-**Rank:** D--
-
-**Link:** https://github.com/rererecursive/associated-press-rss
-
-**Date added:** November 21 2024
-
-**Lasted tested on**: November 22 2024
-
-+ ✅ Updates Regularly
-+ ✅ Free
-+ ✅ Annoying feature free: Does not have autoplaying videos, videos that follow you, or other annoying features.
-+ ❌ Not time tested
-+ ❌ Non-Political feeds sometimes mix in Politics
-+ ❌ Articles are aggressive with trying to get you to view political content.
-+ ☠️ RSS Feeds Very hard to find or requires a 3rd party
-+ ☠️ RSS Feed has no options
-
-They used to offer RSS feeds for each section so you could opt-out of political nonsense, but they no longer do this. You can get news from those sections with a third party tool to generate an RSS feed, but I shouldn't even have to use a third party to get a basic feature. The RSS client I use even suggested a third party. The link above lets you filter by category, but I cannot get this to work. RSSHub also works if you really want this source.
-
-I checked two sections of their site (Oddities and Lifestyle). The lifestyle feed felt the need to talk about politics. I tried an article about Coffee and was also recommended me politics in the middle of the article.
-
-Many of the interesting things they do have can be found on other news aggregators. 
-
-I would not recommend the AP to anyone. Simply put, AP News is unprofessional with its RSS feeds, and in my opinion, unprofessional for a company of it's size. If they could fix these problems, I would easily move this up to a B rank. AP is one step away from being on the *Do Not Recommend* list.
-
-I'm keeping them on the list because they're not the worst offenders, at least, not at the time of this writing.
-
 #### PBS
 **Rank:** D--
 
